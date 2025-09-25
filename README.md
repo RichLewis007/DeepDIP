@@ -1,7 +1,7 @@
 # DeepDIP: LLM-Powered Document Intelligence Platform
 by Rich Lewis
 
-**under rapid development**
+**WIP: Under rapid development**
 
 TODO: need to commit:
 
